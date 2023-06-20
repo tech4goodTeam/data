@@ -1,0 +1,75 @@
+id_activitat,nom_activitat
+1,Activitats de la construcció
+2,Activitats de transport 
+3,Activitats de transport i emmagatzematge
+4,Activitats emmagatzematge
+5,Activitats immobiliàries
+6,Activitats industrials
+7,Administració
+8,Agències de viatge
+9,Altres
+10,Aparells domèstics
+11,Arranjaments
+12,Arts gràfiques
+13,Associacions
+14,Autoservei / Supermercat
+15,Bars / Cibercafé
+16,Bars especials amb actuació / Bars musicals / Discoteques /PUB
+17,Begudes
+18,Calçat i pell
+19,Carn i Porc
+20,Centres d'estètica
+21,Combustibles i carburants
+22,Drogueria i perfumeria
+23,En reforma
+24,Ensenyament
+25,Equipaments culturals i recreatius
+26,Equipaments esportius / Esports
+27,Equipaments religiosos
+28,Fabricació tèxtil
+29,Farmàcies / Parafarmácies
+30,Finances i assegurances
+31,Floristeries
+32,Fotografía
+33,Fruites i verdures
+34,Gimnás / Fitness
+35,Grans magatzems i hipermercats
+36,"Herbolaris, dietètica i nutrició"
+37,Informàtica
+38,Joguines i esports
+39,"Joieria, rellotgeria i bijuteria"
+40,"Llibres, diaris i revistes"
+41,Locals buits en lloguer
+42,Locals buits en venda
+43,Locals buits en venda i lloguer
+44,Locutoris
+45,"Manteniment, neteja i similars"
+46,Maquinària
+47,Material equipament llar
+48,Merceria
+49,Mobles i articles fusta i metall
+50,Música
+51,Ous i aus
+52,"Pa, pastisseria i làctics"
+53,Parament ferreteria
+54,Peix i marisc
+55,Perruqueries
+56,Plats preparats
+57,Pàrquings i garatges
+58,Reparacions (Electrodomèstics i automòbils)
+59,Restaurants
+60,Sanitat i assistència
+61,"Segells, monedes i antiguitats"
+62,Serveis Socials
+63,Serveis a les empreses i oficines
+64,Serveis d'allotjament
+65,Serveis de telecomunicacions
+66,Serveis menjar i begudes per emportar
+67,Souvenirs i basars
+68,Tabac i articles fumadors
+69,Tintoreries
+70,Vehicles
+71,Vestir
+72,Veterinaris / Mascotes
+73,Xocolateries / Geladeries / Degustació
+74,Òptiques 
