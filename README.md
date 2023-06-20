@@ -1,4 +1,5 @@
-# Tech4Good
+# Tech4Good - Grup 6
+
 
 
 ## Organització del repositori
