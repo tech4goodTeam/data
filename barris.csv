@@ -1,0 +1,74 @@
+,codi_barri,p_lloguer,p_venta,nom_barri,codi_districte
+0,1,1189,2.176,el Raval,1
+1,2,1325,2.632,el Barri Gòtic,1
+2,3,1648,2.135,la Barceloneta,1
+3,4,1225,2.482,"Sant Pere, Santa Caterina i la Ribera",1
+4,5,921,2.224,el Fort Pienc,2
+5,6,1027,2.267,la Sagrada Família,2
+6,7,1073,2.302,la Dreta de l'Eixample,2
+7,8,1209,2.471,l'Antiga Esquerra de l'Eixample,2
+8,9,958,2.314,la Nova Esquerra de l'Eixample,2
+9,10,894,2.051,Sant Antoni,2
+10,11,809,1.681,el Poble Sec,3
+11,12,647,1.895,la Marina del Prat Vermell,3
+12,13,784,1.968,la Marina de Port,3
+13,14,764,2.566,la Font de la Guatlla,3
+14,15,831,1.772,Hostafrancs,3
+15,16,809,2.177,la Bordeta,3
+16,17,834,1.533,Sants - Badal,3
+17,18,846,1.838,Sants,3
+18,19,1153,2.203,les Corts,4
+19,20,940,2.470,la Maternitat i Sant Ramon,4
+20,21,1343,,Pedralbes,4
+21,22,,,"Vallvidrera, el Tibidabo i les Planes",5
+22,23,1228,2.969,Sarrià,5
+23,24,1162,2.411,les Tres Torres,5
+24,25,1174,3.022,Sant Gervasi - la Bonanova,5
+25,26,1380,3.351,Sant Gervasi - Galvany,5
+26,27,947,2.535,el Putxet i el Farró,5
+27,28,936,1.907,Vallcarca i els Penitents,6
+28,29,769,1.772,el Coll,6
+29,30,1078,2.242,la Salut,6
+30,31,1115,2.147,la Vila de Gràcia,6
+31,32,1001,1.980,el Camp d'en Grassot i Gràcia Nova,6
+32,33,898,1.842,el Baix Guinardó,7
+33,34,744,1.436,Can Baró,7
+34,35,778,1.760,el Guinardó,7
+35,36,1214,,la Font d'en Fargues,7
+36,37,835,1.422,el Carmel,7
+37,38,610,1.110,la Teixonera,7
+38,39,,,Sant Genís dels Agudells,7
+39,40,,,Montbau,7
+40,41,,,la Vall d'Hebron,7
+41,42,,,la Clota,7
+42,43,795,1.729,Horta,7
+43,44,822,1.795,Vilapicina i la Torre Llobeta,8
+44,45,871,1.768,Porta,8
+45,46,887,1.572,el Turó de la Peira,8
+46,47,,2.936,Can Peguera,8
+47,48,766,,la Guineueta,8
+48,49,,1.828,Canyelles,8
+49,50,722,1.499,les Roquetes,8
+50,51,864,1.471,Verdun,8
+51,52,786,1.385,la Prosperitat,8
+52,53,,,la Trinitat Nova,8
+53,54,,,Torre Baró,8
+54,55,,1.729,Ciutat Meridiana,8
+55,56,,,Vallbona,8
+56,57,573,1.196,la Trinitat Vella,9
+57,58,,,Baró de Viver,9
+58,59,626,1.539,el Bon Pastor,9
+59,60,835,1.684,Sant Andreu,9
+60,61,795,1.234,la Sagrera,9
+61,62,827,1.669,el Congrés i els Indians,9
+62,63,837,1.656,Navas,9
+63,64,890,1.927,el Camp de l'Arpa del Clot,10
+64,65,848,2.239,el Clot,10
+65,66,764,2.029,el Parc i la Llacuna del Poblenou,10
+66,67,969,2.377,la Vila Olímpica del Poblenou,10
+67,68,927,2.240,el Poblenou,10
+68,69,1126,2.651,Diagonal Mar i el Front Marítim del Poblenou,10
+69,70,863,2.121,el Besòs i el Maresme,10
+70,71,832,2.255,Provençals del Poblenou,10
+71,72,976,1.812,Sant Martí de Provençals,10
+72,73,891,1.534,la Verneda i la Pau,10
