@@ -34,7 +34,18 @@ def select_cols(df):
                 'nom_barri',
                
                 'codi_districte',
-                'nom_districte']
+                'nom_districte',
+              
+                'v_2011',
+                'v_2012',
+               'v_2009',
+                'v_2008',
+              
+               'll_2011',
+                'll_2012',
+               'll_2009',
+                'll_2008']
+                
 
     df = df[columns]
 
