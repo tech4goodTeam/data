@@ -1,8 +1,9 @@
 import pandas as pd
 
+import src.clean_data as clean
 
 
 
 
-def rename_cols(df):
-def select_cols(df):
+clean_data = clean.rename_cols(df)
+clean_data = clean.select_cols(df)
